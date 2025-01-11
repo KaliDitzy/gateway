@@ -1,0 +1,26 @@
+
+//***************
+// Music
+//***************
+
+"Gateway.jager"			// 3m30s
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.00000"
+	"pitch"			"100"
+
+	"soundlevel"		"SNDLVL_NONE"
+
+	"wave"			"*#music/Jager.mp3"
+}
+
+"Gateway.constants"		// 2m51s
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.00000"
+	"pitch"			"100"
+
+	"soundlevel"		"SNDLVL_NONE"
+
+	"wave"			"*#music/Constants.mp3"
+}
